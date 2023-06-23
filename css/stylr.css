@@ -1,0 +1,127 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.content {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    max-width: 1200px;
+    display: flex;
+    gap: 30px;
+    padding: 0 20px;
+    margin: 30px auto;
+}
+
+.box {
+    width: 300px;
+    height: 1900px;
+    background-color: #fbfbfb;
+    text-align: center;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 25px;
+    margin-top: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+hr {
+    width: 304px;
+    margin-top: 15px;
+}
+
+
+
+.footer {
+    padding: 20px;
+}
+
+.s {
+    margin-top: 50px;
+}
+
+p {
+    color: black;
+    width: 100%;
+    height: 90px;
+    color: rgb(141, 141, 141);
+}
+
+h4 {
+    font-size: 17px;
+    color: rgb(141, 141, 141);
+}
+
+h5 {
+    margin-top: 20px;
+    color: blue;
+    font-size: 20px;
+    cursor: pointer;
+    margin-bottom: 50px;
+}
+
+
+.ovod {
+    width: 30px;
+    height: 30px;
+    margin-top: 20px;
+    border-radius: 100%;
+    border: 0;
+}
+
+.one {
+    cursor: pointer;
+    background-color: #C7C8CA;
+    width: 30px;
+    height: 30px;
+    margin-top: 20px;
+    border-radius: 100%;
+    border: 0;
+    margin-left: 10px;
+}
+
+.two {
+    /*     background-color: #B1B2B7;
+ */
+    cursor: pointer;
+    width: 30px;
+    height: 30px;
+    margin-top: 20px;
+    border-radius: 100%;
+    border: 0;
+}
+
+.three {
+
+    cursor: pointer;
+    width: 30px;
+    height: 30px;
+    margin-top: 20px;
+    border-radius: 100%;
+    border: 0;
+}
+
+
+.buy {
+    width: 100px;
+    height: 30px;
+    border-radius: 17px;
+    background-color: blue;
+    border: none;
+    text-decoration: none;
+    cursor: pointer;
+    color: white;
+    margin-top: 15px;
+    font-size: 18px;
+}
+
+.imageee {
+    width: 200px;
+    height: 200px;
+}
